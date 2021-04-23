@@ -1,0 +1,1 @@
+﻿update tblQuestions set QuestionAnswer='India' where QuestionId=1;

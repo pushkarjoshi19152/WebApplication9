@@ -1,0 +1,1 @@
+﻿insert into tblQuestions values(7,'Who are the founders of Google?','Rahul','Prem','Pradip','Tejas','Pradip');
